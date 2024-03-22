@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.EnderSpy29.voidium.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "Voidium.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
